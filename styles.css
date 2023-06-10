@@ -8,8 +8,8 @@ h1 {
     text-align: centre;
 }
 
-.red-text {
-    color: red;
+.title-shadow {
+    text-shadow: 1px 1px 1px #B4AE97;
 }
 
 .ex-grid {
