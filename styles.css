@@ -1,11 +1,11 @@
 body {
-    color: black;
-    background-color: white;
+    color: #000000;
+    background-color: #FFFFFF;
     font-family: 'Lora', serif;
 }
 
 h1 + body {
-    text-align: centre;
+    text-align: center;
 }
 
 .title-shadow {
