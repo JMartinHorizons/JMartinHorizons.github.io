@@ -11,7 +11,7 @@ body {
 
 .para-styling {
     text-align: center;
-    box-sizing:500px;
+    width:500px;
 }
 
 .ex-grid {
