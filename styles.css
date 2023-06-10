@@ -8,6 +8,10 @@ h1 + body {
     text-align: center;
 }
 
+p {
+    text-align: center;
+}
+
 .title-shadow {
     text-shadow: 1px 1px 1px #B4AE97;
 }
