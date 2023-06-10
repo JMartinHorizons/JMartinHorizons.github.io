@@ -15,13 +15,13 @@ body {
 }
 .second-col {
   grid-column: 2;  /* sets a second column */
-  grid-row: 2;   
+  grid-row: 1;   
 }
 .third-col {
   grid-column: 3;  /* sets a third column */
-  grid-row: 3;
+  grid-row: 1;
 }
 .fourth-col {
   grid-column: 4;  /* sets a fourth column */
-  grid-row: 4;   
+  grid-row: 1;   
 }
