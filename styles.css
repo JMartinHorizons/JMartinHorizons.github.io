@@ -2,3 +2,32 @@ body {
     color: white;
     background-color: black;
     font-family: 'Lora', serif;  }
+
+.site-columns {
+  display: grid;  /* sets the display to grid on the surrounding div */
+  grid-template-columns: 25% 25% 25% 25%;  /* sets each column to 50% */
+}
+.first-col {
+  grid-column: 1;  /* sets an initial column */
+  grid-row: 1;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.second-col {
+  grid-column: 2;  /* sets a second column */
+  grid-row: 1;
+  box-sizing: border-box;
+  padding: 10px;    
+}
+.third-col {
+  grid-column: 3;  /* sets a third column */
+  grid-row: 1;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.fourth-col {
+  grid-column: 4;  /* sets a fourth column */
+  grid-row: 1;   
+  box-sizing: border-box;
+  padding: 10px;
+}
