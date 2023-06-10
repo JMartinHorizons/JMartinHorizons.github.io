@@ -4,12 +4,13 @@ body {
     font-family: 'Lora', serif;
 }
 
-.center-text {
+.title-styling {
+    text-shadow: 1px 1px 1px #B4AE97, 2px 2px 1px #B4AE97;
     text-align: center;
 }
 
-.title-shadow {
-    text-shadow: 1px 1px 1px #B4AE97;
+.para-styling {
+    text-align: center;
 }
 
 .ex-grid {
