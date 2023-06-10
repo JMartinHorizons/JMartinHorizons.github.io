@@ -12,24 +12,16 @@ body {
 .first-col {
   grid-column: 1;  /* sets an initial column */
   grid-row: 1;
-  box-sizing: border-box;
-  padding: 10px;
 }
 .second-col {
   grid-column: 2;  /* sets a second column */
-  grid-row: 2;
-  box-sizing: border-box;
-  padding: 10px;    
+  grid-row: 2;   
 }
 .third-col {
   grid-column: 3;  /* sets a third column */
   grid-row: 3;
-  box-sizing: border-box;
-  padding: 10px;
 }
 .fourth-col {
   grid-column: 4;  /* sets a fourth column */
   grid-row: 4;   
-  box-sizing: border-box;
-  padding: 10px;
 }
