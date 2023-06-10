@@ -4,11 +4,7 @@ body {
     font-family: 'Lora', serif;
 }
 
-h1 + body {
-    text-align: center;
-}
-
-p {
+.center-text {
     text-align: center;
 }
 
