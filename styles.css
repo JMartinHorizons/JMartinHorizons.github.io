@@ -1,7 +1,12 @@
 body {
     color: black;
     background-color: white;
-    font-family: 'Lora', serif;  }
+    font-family: 'Lora', serif;
+}
+
+h1 {
+    color: red;
+}
 
 .ex-grid {
   display: grid;  /* sets the display to grid on the surrounding div */
