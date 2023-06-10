@@ -3,7 +3,7 @@ body {
     background-color: black;
     font-family: 'Lora', serif;  }
 
-.site-columns {
+.ex-grid {
   display: grid;  /* sets the display to grid on the surrounding div */
   grid-template-columns: 25% 25% 25% 25%;  /* sets each column to 25%% */
   gap: 10px;
