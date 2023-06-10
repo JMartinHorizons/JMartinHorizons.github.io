@@ -15,19 +15,19 @@ body {
 }
 .second-col {
   grid-column: 2;  /* sets a second column */
-  grid-row: 1;
+  grid-row: 2;
   box-sizing: border-box;
   padding: 10px;    
 }
 .third-col {
   grid-column: 3;  /* sets a third column */
-  grid-row: 1;
+  grid-row: 3;
   box-sizing: border-box;
   padding: 10px;
 }
 .fourth-col {
   grid-column: 4;  /* sets a fourth column */
-  grid-row: 1;   
+  grid-row: 4;   
   box-sizing: border-box;
   padding: 10px;
 }
