@@ -10,14 +10,14 @@ body {
 }
 
 .para-styling {
-    position: absolute;
+    position: relative;
     text-align: justify;
     width: 60%;
     left: 20%;
 }
 
 .linebreak {
-    position: absolute;
+    position: relative;
     border: 1px solid #000000;
     width: 25%%;
     left: 50%%;
