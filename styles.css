@@ -10,6 +10,7 @@ body {
 }
 
 .para-styling {
+    position: absolute;
     text-align: center;
     width: 500px;
     right: 25%;
